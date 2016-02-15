@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ClassRoutine</string>
+
+    <!--  All days are here  -->
+    <string name="get_day">getToDay</string>
+    <string name="txtViwDay">txtViwDay</string>
+    <string name="txtViwTime1">txtViwTime1</string>
+    <string name="txtViwRoom1">txtViwRoom1</string>
+    <string name="txtViwSub1">txtViwSub1</string>
+    <string name="time_circle1">time_circle1</string>
+    <string name="txtViwTime2">txtViwTime2</string>
+    <string name="txtViwRoom2">txtViwRoom2</string>
+    <string name="txtViwSub2">txtViwSub2</string>
+    <string name="time_circle2">time_circle2</string>
+
+    <!-- Class Time -->
+    <string name="class_time1st">06.00pm</string>
+    <string name="class_time2nd">07.30pm</string>
+
+    <!-- Class Room -->
+    <string name="room601">601-CSE</string>
+    <string name="room602">602-CSE</string>
+    <string name="room101">101-DT5</string>
+    <string name="room102">102-CSE</string>
+    <string name="room106">106-DT5</string>
+    <string name="room115">115-DT5</string>
+    <string name="room901">901-DT5</string>
+    <string name="room702">702-CSE</string>
+
+    <!-- Course Name -->
+    <string name="CAO">  Computer \nArchitecture\n       and \nOrganization\n     CSE322</string>
+    <string name="NmrclMthd">Numerical \nMethods\n  CSE312</string>
+    <string name="CNet">Computer \nNetworks\n  CSE313</string>
+    <string name="DB">Database \nManagement \nSystem \nCSE311</string>
+    <string name="CNet_L">Computer \nNetworks \n  LAB \nCSE313L</string>
+    <string name="DB_L">Database \nManagement \nSystem \n CSE311</string>
+</resources>
